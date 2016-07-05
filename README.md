@@ -1,3 +1,4 @@
 # findsum
-find the shortest sequence of number inside a defined set which sum the target value.
+Given a set of number, find the shortest sequence which sum the target value.
+
 (open with Codelite)
